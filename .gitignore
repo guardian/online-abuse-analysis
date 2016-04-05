@@ -1,0 +1,16 @@
+
+*~
+*.swp
+
+.idea
+*.iml
+.cache
+.classpath
+.settings
+.project
+.target
+target
+*Configuration*.json
+new_spark_deploy
+
+src/main/resources/application.conf
